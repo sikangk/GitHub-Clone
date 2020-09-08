@@ -207,7 +207,7 @@ header .sub-menu li a:hover {
 
 #toggle-btn {
   display: none;
-  background: url("/img/toggle-btn.svg");
+  background: url("../img/toggle-btn.svg");
   width: 18px;
   height: 24px;
   position: absolute;
